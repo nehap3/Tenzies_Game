@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        nodejs 'NodeJS 23'
+        nodejs 'Node JS 23'
     }
 
     environment {
