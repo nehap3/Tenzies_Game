@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        REPO_URL = 'https://github.com/np0307/Tenzies_Game.git'
+        REPO_URL = 'https://github.com/nehap3/Tenzies_Game.git'
         BUILD_DIR = 'build'
         PORT = '5000'
     }
